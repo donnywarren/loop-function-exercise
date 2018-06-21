@@ -38,7 +38,7 @@ Here is some information/tips for the functions you will be creating:
 
 `isCharacterVowel`
 > Write a function that takes a character and returns **true** if it's a vowel. Otherwise, it should return **false** <br>
-> **HINT:** This may be a perfect time to use a `switch` `case` statement, or `if` `else`, or both 🤷
+> **HINT:** This may be a perfect time to use a `switch` statement, or an `if` `else` statement, or both 🤷
 
 `meanCharacter`
 > Write a function that takes a 'villain' and a 'movie'. The function should return the string: <br><br>
