@@ -54,8 +54,8 @@ Here is some information/tips for the functions you will be creating:
 > **HINT:** Celsius = 5/9 (Fahrenheit-32)
 
 `perfectSquares`
-> Write a function that returns an array of the perfect squares from 1-100 (inclusive)
-> **HINT:** We have not formally talked about arrays YET. BUT, this a great opportunity for some doc diving<br>
+> Write a function that returns an array of the perfect squares from 1-100 (inclusive)<br>
+> **HINT:** We have not formally talked about arrays YET, but this is a great opportunity for some doc diving<br>
 > [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)<br>
 > [W3 Schools](https://www.w3schools.com/Jsref/jsref_obj_array.asp)
 
