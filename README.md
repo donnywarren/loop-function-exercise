@@ -43,12 +43,15 @@ Here is some information/tips for the functions you will be creating:
 `meanCharacter`
 > Write a function that takes a 'villain' and a 'movie'. The function should return the string: <br><br>
 >"{villain} is the meanest character in {movie}"<br><br>
-> EXAMPLE: "Joker is the meanest character in Batman"
+> EXAMPLE: "Joker is the meanest character in Batman"<br>
+>HINT: You will need string interpolation for this function. For a recap of this, read [EJS CH.1](http://eloquentjavascript.net/01_values.html)
+
 
 >NOTE: The test for this function has some hard coded values that may not sync with your villains and movies. If you see them, do not feel the need to use those villains/movies. it just means your function was not written correctly 
 
 `tempConverter`
-> Write a function that takes the temperature in Fahrenheit, converts it to Celsius, and returns the value.
+> Write a function that takes the temperature in Fahrenheit, converts it to Celsius, and returns the value.<br>
+> HINT: Celsius = 5/9 (Fahrenheit-32)
 
 `perfectSquares`
 > Write a function that returns an array of the perfect squares from 1-100 (inclusive)
