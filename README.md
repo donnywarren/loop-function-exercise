@@ -44,10 +44,10 @@ Here is some information/tips for the functions you will be creating:
 > Write a function that takes a 'villain' and a 'movie'. The function should return the string: <br><br>
 >"{villain} is the meanest character in {movie}"<br><br>
 > **EXAMPLE:** "Joker is the meanest character in Batman"<br>
-> **HINT:** You will need string interpolation for this function. For a recap of this, read [EJS CH.1](http://eloquentjavascript.net/01_values.html)
+> **HINT:** You will need string interpolation for this function. For a recap of this, look through [EJS CH.1](http://eloquentjavascript.net/01_values.html)
 
 
->NOTE: The test for this function has some hard coded values that may not sync with your villains and movies. If you see them, do not feel the need to use those villains/movies. it just means your function was not written correctly 
+>**NOTE:** The test for this function has some hard coded values that may not sync with your villains and movies. If you see them, do not feel the need to use those villains/movies. It just means your function was not written correctly.
 
 `tempConverter`
 > Write a function that takes the temperature in Fahrenheit, converts it to Celsius, and returns the value.<br>
@@ -55,16 +55,15 @@ Here is some information/tips for the functions you will be creating:
 
 `perfectSquares`
 > Write a function that returns an array of the perfect squares from 1-100 (inclusive)
-> **HINT:** We have not formally talked about arrays YET. BUT, this a great opportunity for some doc diving
-
->Resources
-> [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+> **HINT:** We have not formally talked about arrays YET. BUT, this a great opportunity for some doc diving<br>
+> [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)<br>
 > [W3 Schools](https://www.w3schools.com/Jsref/jsref_obj_array.asp)
 
 ## Workflow
 
-After each completed function, you should `git add .` and then `git commit -m` so that we can see your progress.
-Make sure to `git push origin master` when your all done.
+After each completed function, you should `git add .` and then `git commit -m` with a message so that we can see your progress.
+
+Make sure to `git push origin master` when your all done and submit your pull request
 
 ## BONUS!!
 
