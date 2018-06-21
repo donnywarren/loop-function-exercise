@@ -68,8 +68,8 @@ Make sure to `git push origin master` when your all done and submit your pull re
 ## BONUS!!
 
 `countDown`
-> Write a function that will print the values from n to 0
-> **HINT:** How can we do this recusively 🤔 ?
+> Write a function that will print the values from n down to 0<br>
+> **HINT:** Can we do this recusively 🤔 ?
 
 `findBigString`
 > Write a function that takes an array of strings and returns the longest string in the array.
