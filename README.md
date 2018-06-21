@@ -66,6 +66,15 @@ Here is some information/tips for the functions you will be creating:
 After each completed function, you should `git add .` and then `git commit -m` so that we can see your progress.
 Make sure to `git push origin master` when your all done.
 
+## BONUS!!
+
+`countDown`
+> Write a function that will print the values from n to 0
+> **HINT:** How can we do this recusively 🤔 ?
+
+`findBigString`
+> Write a function that takes an array of strings and returns the longest string in the array.
+
 ## Completion
 
 Make all the test pass by completing the functions and submit the homework through a PR
