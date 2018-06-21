@@ -16,7 +16,7 @@ We want you to flex your functions muscles! For tonight's HW, you will practice 
 1. Once the forking is complete, **clone** the repo onto your computer.
 1. From the command-line: 
     - `cd` into the newly created directory
-    - `npm i` (This is important😤! Otherwise you won't have the automated tests and necessary tools!).
+    - `npm i` <br>(This is important😤! Otherwise you won't have the automated tests and necessary tools!).
 1. Open `funcs.js` 
     - We should all be using VSCode. In the command-line run `code .` 
     
