@@ -72,4 +72,4 @@ Make sure to `git push origin master` when your all done.
 
 ## Completion
 
-Make all the test pass by completing the functions (`npm t` should show all green checks)
+Make all the tests pass by completing the functions (`npm t` should show all green checks)
