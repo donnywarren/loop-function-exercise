@@ -29,7 +29,7 @@ The functions MUST pass the automated tests <br>
 **To check your functions, run `npm t` in the terminal**
 
  
-## Do the HW !
+## Do the Exercise !
 
 Here is some information/tips for the functions you will be creating:
 
@@ -55,25 +55,21 @@ Here is some information/tips for the functions you will be creating:
 
 `perfectSquares`
 > Write a function that returns an array of the perfect squares from 1-100 (inclusive)<br>
-> **HINT:** We have not formally talked about arrays YET, but this is a great opportunity for some doc diving<br>
-> [MDN: Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)<br>
-> [W3 Schools](https://www.w3schools.com/Jsref/jsref_obj_array.asp)
 
 ## Workflow
 
 After each completed function, you should `git add .` and then `git commit -m` with a message so that we can see your progress.
 
-Make sure to `git push origin master` when your all done and submit your pull request
+Make sure to `git push origin master` when your all done.
 
 ## BONUS!!
 
 `countDown`
 > Write a function that will print the values from n down to 0<br>
-> **HINT:** Can we do this recusively 🤔 ?
 
 `findBigString`
 > Write a function that takes an array of strings and returns the longest string in the array.
 
 ## Completion
 
-Make all the test pass by completing the functions (`npm t` should show all green checks) and submit the homework through a PR
+Make all the test pass by completing the functions (`npm t` should show all green checks)
