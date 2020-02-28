@@ -4,7 +4,7 @@
 
 ## Learning Objectives
 
-We want you to flex your functions muscles! For tonight's HW, you will practice the following:
+We want you to flex your functions muscles! In this exercise, you will practice the following:
  - Defining a function
  - Understanding the difference between parameters and arguments
  - Understanding scope as it relates to functions
