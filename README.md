@@ -58,9 +58,9 @@ Here is some information/tips for the functions you will be creating:
 
 ## Workflow
 
-After each completed function, you should `git add .` and then `git commit -m` with a message so that we can see your progress.
+After each completed function, you should `git add .` and then `git commit -m` with a message.
 
-Make sure to `git push origin master` when your all done.
+Make sure to `git push origin master` when you're all done.
 
 ## BONUS!!
 
