@@ -17,13 +17,25 @@ function isCharacterVowel(char) {
 }
 
 function meanCharacter(villain, movie) {
-  return `${villain} is the meanest character in ${movie}.`;
+  return `${villain} is the meanest character in ${movie}`;
 }
 
 function tempConverter(temp) {
+  return 5 / 9 * (temp - 32);
 }
 
+
+
 function perfectSquares() {
+  let squareArr = [];
+  for (let i = 1; i <= 100; i++) {
+    for (let a = 1; a * a <= i; a++) {
+      if (a * a == i) {
+        squareArr.push(i);
+      }
+    }
+  }
+  return squareArr;
 }
 
 // BONUS: count down from n to 0;
