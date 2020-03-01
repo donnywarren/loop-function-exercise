@@ -1,10 +1,23 @@
 function maxOfTwoNumbers(a, b) {
+  if (a > b) {
+    return a;
+  } else if (b > a) {
+    return b;
+  } else {
+    return null;
+  }
 }
 
 function isCharacterVowel(char) {
+  if (char === "a" || char === "e" || char === "i" || char === "o" || char === "u") {
+    return true;
+  } else {
+    return false;
+  }
 }
 
 function meanCharacter(villain, movie) {
+  return `${villain} is the meanest character in ${movie}.`;
 }
 
 function tempConverter(temp) {
